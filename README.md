@@ -1,7 +1,7 @@
 # Reactlecture
 reactレクチャーで使用したプログラムになります。
 
-## 'npm i -S react-scroll'
+## `npm i -S react-scroll`
 「react-scroll」とは　URLの場所をまったく反映せずに、アンカーまでスクロールするためのより完全な機能を備えたライブラリ　のことです。
 このライブラリーを使用して動的なサイトを作るのでインストールしましょう。
 
