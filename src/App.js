@@ -3,7 +3,7 @@ import "./App.css";
 
 import Navbar from "./Components/Navbar";
 import Top from "./Components/Top";
-import AboutMe from './Components/AboutMe.js';
+import AboutMe from './Components/AboutMe';
 import Works from './Components/Works';
 import Skill from './Components/Skill';
 import Contact from './Components/Contact';
